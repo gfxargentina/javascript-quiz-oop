@@ -1,3 +1,3 @@
-import { data } from "./data/data.js";
+import { questions } from "./data/question.js";
 
-console.log(data);
+console.log(questions);
